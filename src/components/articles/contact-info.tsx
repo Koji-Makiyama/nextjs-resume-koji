@@ -21,6 +21,7 @@ export default function ContactInformation({
       <ul>
         <li>
           <strong>Location:</strong> {personal.location}
+          <strong>Email:</strong> {personal.email}
         </li>
 
         {/* private access required */}

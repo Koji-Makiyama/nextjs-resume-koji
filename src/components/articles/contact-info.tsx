@@ -21,6 +21,8 @@ export default function ContactInformation({
       <ul>
         <li>
           <strong>Location:</strong> {personal.location}
+        </li>
+        <li>
           <strong>Email:</strong> {personal.email}
         </li>
 

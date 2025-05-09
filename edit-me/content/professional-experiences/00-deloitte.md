@@ -1,8 +1,9 @@
 ---
 organization: Deloitte (contract)
 titles:
-  - title: Architecture & Integration Engineer
+  - title: Architecture & Integration Specialist
     startDate: September 2023
     endDate: April 2025
-    description: Developed and tested multiple enterprise Java applications that leveraged technologies such as MongoDB, DynamoDB, and AWS S3. Containerized and orchestrated application deployments using Docker and EKS (Amazon Elastic Kubernetes Service) with the AWS platform. Daily team member responsibilities included code commits, code review, testing, and client demonstrations of working code and infrastructure.
+    description: Collaborated with business stakeholders and developers to gather and document functional and non-functional requirements for enterprise applications using Java, Python, MongoDB, DynamoDB, AWS S3, ECR, and EKS. Authored technical documentation including system architecture overviews, API documentation, and user manuals to support developers and end users. Mapped current and future-state business processes and workflows, identifying areas for improvement and developing actionable recommendations. Supported Agile ceremonies (daily stand-ups, sprint planning, retrospectives) and documented meeting notes, decisions, and action items. 
+     Created test cases and documented results to ensure alignment with business requirements. 
 ---

@@ -4,5 +4,5 @@ titles:
   - title: Associate
     startDate: April 2022
     endDate: June 2023
-    description: Gathered and analyzed requirements for a large-scale Java application with Kafka Streams integration, ensuring alignment with business objectives. Contributed to development and implementation of this effort. Developed technical content including system design documents, data flow diagrams, and troubleshooting guides. Facilitated communication between product owners, developers, and QA to clarify requirements and resolve issues.
+    description: Developed and tested a large-scale Java application that made use of Kafka Streams for real-time data ingestion, processing,and downstream processes. Tested out alternative options to Kafka such as SnowflakeDB, and analyzed aggregated data using Databricks. Daily team member responsibilities included scrum reporting & discussion, repository creation, code commits, pull requests, andpeer reviews.
 ---

@@ -1,9 +1,9 @@
 ---
 givenName: Alexander Koji
 familyName: Makiyama
-title: Business Analyst | Software Developer
+title: Data Analyst | Software Developer
 location: San Tan Valley, Arizona
 email: alexanderkojimakiyama@gmail.com
 ---
 
-Detail-oriented and analytical Business Analyst, Technical Writer, and Software Developer with 3+ years of experience bridging the gap between business needs and technical implementation. Proven expertise in gathering, analyzing, and documenting business and technical requirements, creating clear and concise documentation (user manuals, technical guides, process flows), and collaborating with cross-functional teams in Agile environments. Strong background in software development enhances ability to translate complex technical concepts into user-friendly materials and actionable business insights.
+Highly motivated and results-oriented Data Analyst & Java Developer with 3+ years of experience in building scalable and high-performanceapplications that leverage a variety of database and data pipeline solutions (MongoDB, SnowflakeDB, KafkaStreams). Provenability to work across the full software development lifecycle, from design and development to testing and deployment. Strongcollaborator with experience in Agile methodologies and a demonstrated ability to quickly learn and implement new technologies.
